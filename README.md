@@ -59,6 +59,7 @@ This PowerBi report helps make decisions based on data. It's a crucial tool for 
 
 ### Home
 
-![Dashboard Hospitality](https://github.com/Vishwajeet-Raut/Hospitality-Dashboard/assets/120458113/8d9cd18f-ef95-48fb-ad5a-302a4d0c7456)
+![Hospitality Dashboard](https://github.com/Vishwajeet-Raut/Hospitality-Dashboard/assets/120458113/5f1488e1-0914-4f27-8a01-20c397e02860)
+
 
 
