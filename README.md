@@ -4,8 +4,6 @@ Link to the [Portfolio ](https://codebasics.io/portfolio/Vishwajeet-Raut)
 
 Link to [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjgwMmU1YTctMjk4MS00NDVjLWE3NTMtMTMyYjdjNGNiYzcyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Link to [Novypro](https://www.novypro.com/project/atliq-hospitality-dahboard-power-bi)
-
 
 **About the Project:**
 
@@ -47,28 +45,20 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 **Creating the Dashboard:**
 - Home view with navigation buttons
-- Specific views for Finance, Sales, Marketing, Supply Chain, Executive, Products, Support
+- Specific views for RevPAR ,ADR , Occupancy % ,Revenue by Category , Trends by Key Matrices,Property by Key Matrices,Realisation % and ADR by Platform
 - Each view designed based on provided mock-ups
 
 **Why It Matters:**
 This PowerBi report helps make decisions based on data. It's a crucial tool for answering important business questions.
 
-**Explore the Full Report Here**
-
-*Make Better Decisions with the Power of Data!* 🚀
-
-
-
-
-
-
 
 
 ### Modelling View
 
-![BI 360 modelling](https://github.com/Vishwajeet-Raut/Business-Insights-360/assets/120458113/2ef7ebb9-e46e-43f4-b313-61ff3ae385d0)
+![Model view Hospitality](https://github.com/Vishwajeet-Raut/Hospitality-Dashboard/assets/120458113/a52d42b7-6230-484c-880b-550b9d922550)
 
 ### Home
 
-![blackbi360](https://github.com/Vishwajeet-Raut/Business-Insights-360/assets/120458113/984fdcaf-c7c0-4658-a7e1-3589cc3da4d2)
+![Dashboard Hospitality](https://github.com/Vishwajeet-Raut/Hospitality-Dashboard/assets/120458113/8d9cd18f-ef95-48fb-ad5a-302a4d0c7456)
+
 
