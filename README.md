@@ -44,7 +44,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 
 **Creating the Dashboard:**
-- Home view with navigation buttons
+- Home view with tootips 
 - Specific views for RevPAR ,ADR , Occupancy % ,Revenue by Category , Trends by Key Matrices,Property by Key Matrices,Realisation % and ADR by Platform
 - Each view designed based on provided mock-ups
 
